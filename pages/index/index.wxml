@@ -1,5 +1,7 @@
-<view class="indexpage">
-<view>begin</view>
-<view>主页</view>
-<view>end</view>
+<view class="body">
+  <view class="indexpage" style="">
+    <view class="indexpage1">begin</view>
+    <view class="indexpage2">主页</view>
+    <view class="indexpage3">end</view>
+  </view>
 </view>

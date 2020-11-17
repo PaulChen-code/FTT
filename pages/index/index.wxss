@@ -1,1 +1,16 @@
-.indexpage{display:flex}
+.indexpage{display:flex;
+  border-color: brown;
+padding: 10px
+}
+.indexpage1{
+  background-color: yellow;
+  color:black
+}
+.indexpage2{
+  background-color: blueviolet;
+  color: yellow;
+}
+.indexpage3{
+  background-color: brown;
+  color:blue
+}
