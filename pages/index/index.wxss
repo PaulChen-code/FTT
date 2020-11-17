@@ -1,1 +1,1 @@
-.indexpage{}
+.indexpage{display:flex}

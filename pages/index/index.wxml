@@ -1,1 +1,5 @@
-<view class="indexpage">主页</view>
+<view class="indexpage">
+<view>begin</view>
+<view>主页</view>
+<view>end</view>
+</view>
