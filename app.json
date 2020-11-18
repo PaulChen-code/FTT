@@ -1,7 +1,12 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/todo/todo",
+    "pages/schedule/schedule",
+    "pages/todoreport/todoreport",
+    "pages/user/user"
+
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -10,16 +15,26 @@
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
-    "list": [{
-      "pagePath": "pages/index/index",
-      "text": "index"
+    "list": [
+      {
+      "pagePath": "pages/todo/todo",
+      "text": "任务库"
 
     },
     {
-      "pagePath": "pages/logs/logs",
-      "text": "logs"
+      "pagePath": "pages/schedule/schedule",
+      "text": "日程"
 
-    }]
+    },
+    {
+      "pagePath": "pages/todoreport/todoreport",
+      "text": "任务报告"
+    },
+    {
+      "pagePath": "pages/user/user",
+      "text": "我的"
+    }
+  ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
