@@ -16,18 +16,16 @@
   },
   "tabBar": {
     "position": "bottom",
-    "list": [
-      {
-      "pagePath": "pages/todo/todo",
-      "text": "任务库"
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "index"
 
     },
     {
       "pagePath": "pages/schedule/schedule",
-      "text": "日程"
+      "text": "schedule"
 
-    }
-  ]
+    }]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
