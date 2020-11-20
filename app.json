@@ -15,26 +15,7 @@
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
-    "list": [
-      {
-      "pagePath": "pages/todo/todo",
-      "text": "任务库"
-
-    },
-    {
-      "pagePath": "pages/schedule/schedule",
-      "text": "日程"
-
-    },
-    {
-      "pagePath": "pages/todoreport/todoreport",
-      "text": "任务报告"
-    },
-    {
-      "pagePath": "pages/user/user",
-      "text": "我的"
-    }
-  ]
+   
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
