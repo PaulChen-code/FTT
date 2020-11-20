@@ -15,6 +15,7 @@
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
+    "position": "bottom",
     "list": [
       {
       "pagePath": "pages/todo/todo",
@@ -25,14 +26,6 @@
       "pagePath": "pages/schedule/schedule",
       "text": "日程"
 
-    },
-    {
-      "pagePath": "pages/todoreport/todoreport",
-      "text": "任务报告"
-    },
-    {
-      "pagePath": "pages/user/user",
-      "text": "我的"
     }
   ]
   },
