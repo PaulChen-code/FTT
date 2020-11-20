@@ -15,7 +15,7 @@
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
-    "position": "bottom",
+    
     "list": [{
       "pagePath": "pages/index/index",
       "text": "index"
