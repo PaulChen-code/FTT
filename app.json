@@ -1,7 +1,7 @@
 {
   "pages":[
-    "pages/lyh/lyh",
     "pages/todorepo/todorepo",
+    "pages/lyh/lyh",
     "pages/schedule/schedule",
     "pages/todoreport/todoreport",
     "pages/user/user",
