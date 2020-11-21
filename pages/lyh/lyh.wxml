@@ -1,0 +1,33 @@
+<!--pages/lyh/lyh.wxml-->
+<view class="TodoContainer">
+  <view class="TodoItemTitle">
+    <view class="TodoItemTitleText">Event</view>
+    <view class="TodoItemTitleText">Star</view>
+  </view>
+  <view class="TodoItem">
+    <view class="ItemComponent">任务1</view>
+     <view class="ItemComponent">
+      <image class="star" src="/img/star.png"></image>
+      <image class="star" src="/img/star.png"></image>
+      <image class="star" src="/img/star.png"></image>
+     </view>
+  </view>
+  <view class="TodoItem">
+    <view class="ItemComponent">任务2</view>
+     <view class="ItemComponent">
+      <image class="star" src="/img/star.png"></image>
+      <image class="star" src="/img/star.png"></image>
+      <image class="star" src="/img/star.png"></image>
+     </view>
+  </view>
+  <view class="TodoItem">
+    <view class="ItemComponent">任务3</view>
+     <view class="ItemComponent">
+      <image class="star" src="/img/star.png"></image>
+      <image class="star" src="/img/star.png"></image>
+      <image class="star" src="/img/star.png"></image>
+     </view>
+  </view>
+  <view class="TodoEndline">
+  </view>
+</view>

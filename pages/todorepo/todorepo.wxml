@@ -1,2 +1,5 @@
 <!--pages/todorepo/todorepo.wxml-->
 <text>pages/todorepo/todorepo.wxml</text>
+<view>
+  <navigator url="/pages/lyh/lyh">转到拉取任务</navigator>
+</view>

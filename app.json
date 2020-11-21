@@ -1,6 +1,7 @@
 {
   "pages":[
     "pages/todorepo/todorepo",
+    "pages/lyh/lyh",
     "pages/schedule/schedule",
     "pages/todoreport/todoreport",
     "pages/user/user",
@@ -10,7 +11,7 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#3BC2AE",
     "navigationBarTitleText": "Weixin",
     "navigationBarTextStyle":"black"
   },
