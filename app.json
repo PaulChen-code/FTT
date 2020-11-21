@@ -4,6 +4,7 @@
     "pages/schedule/schedule",
     "pages/todoreport/todoreport",
     "pages/user/user",
+    "pages/lyh/lyh",
     "pages/index/index",
     "pages/logs/logs"
 
