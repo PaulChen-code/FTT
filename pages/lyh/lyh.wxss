@@ -35,12 +35,12 @@
 
 
 .TodoEndline{
-  display: flex;
-  justify-content: center;
-  
+  margin: 20px 80px;
+  height: 1px;
+ background-color: #bbbbbb;
+
 }
 .star{
-  
   height:24px;
   width: 24px;
 }
